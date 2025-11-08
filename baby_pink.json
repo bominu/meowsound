@@ -1,0 +1,48 @@
+{
+  "manifest": {
+    "author": "pingguopaw",
+    "version": "0.0.1",
+    "name": "baby pink",
+    "transparency_mode": 0
+  },
+  "background": {},
+  "simple_colors": {
+    "background": -1845505049,
+    "input_background": 1492296131,
+    "background_secondary": -3850
+  },
+  "colors": {
+    "primary_dark_360": -1,
+    "uikit_settings_item_text_color_light": -8468,
+    "white_500": -1,
+    "primary_dark_630": -1207968020,
+    "primary_dark_200": -1,
+    "brand_new_560": -1,
+    "primary_dark_300": -1,
+    "primary_dark_330": -1,
+    "primary_dark_660": 1526726655,
+    "status_yellow_500_alpha_10": 448822937,
+    "status_yellow_500": -1,
+    "brand_new_260": -1,
+    "brand_500_alpha_20": 871203759,
+    "primary_700": -5133,
+    "primary_dark_400": -1,
+    "uikit_settings_item_text_color_dark": -1,
+    "uikit_btn_compound_color_selector_dark": -1,
+    "primary_dark_800": -197121,
+    "background_material_dark": -1,
+    "design_dark_default_color_background": -1
+  },
+  "drawable_tints": {
+    "drawable_bg_reaction_dark": 1608690625,
+    "ic_channel_text": -1,
+    "ic_sidebar_pins_off_dark_24dp": -1,
+    "ic_sidebar_notifications_on_dark_24dp": -1,
+    "ic_mobile": -1,
+    "ic_status_online_16dp": -1,
+    "ic_status_idle_16dp": -1,
+    "ic_status_dnd_16dp": -1,
+    "ic_status_invisible_16dp": -1,
+    "drawable_overlay_channels_selected_dark": 1123140566
+  }
+}
